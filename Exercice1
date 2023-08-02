@@ -1,0 +1,10 @@
+Algorithme Nombre
+Var
+  a1:Entier ;
+Debut
+   Repeter
+   Afficher"Entrer un nombre"
+   Saisir a1
+   jusqu'a (a>=1)AND(a1>=3) ;
+
+Fin 
