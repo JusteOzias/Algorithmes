@@ -1,0 +1,10 @@
+Algorithme Multi;
+Var:
+ i,j:Entiers;
+Debut
+  Ecrire "Entrez un nombre";
+  lire i;
+ Pour j→1 à 10 pas de 1 i
+  Ecrire i,"*",j,"="i*j:
+ Fin Pour
+Fin
