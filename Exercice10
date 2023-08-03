@@ -1,0 +1,16 @@
+lgorithme nombre;
+Var
+ n,m:Entiers;
+Debut
+   Ecrire "Entrez un nombre";
+   Lire n;
+   Ecrire "Entrez un deuxieme nombre";
+   Lire m;
+  si m*n˃0 alors :
+    Ecrire"Positifs";
+  si non si m*n˂0 alors:
+    Ecrire "negatifs";
+  si non 
+    Ecrire "nul";
+  Finsi
+Fin
