@@ -1,0 +1,12 @@
+Algorithme nombre
+Var
+ t,c,n:entiers
+Debut
+  Ecrire "entrez un nombre";
+  Lire n;
+  c←1;
+tant que c˂=10 faire
+  Ecrire le nombre suivant est,n+c
+  c←c+1;
+ Fintant que
+Fin
